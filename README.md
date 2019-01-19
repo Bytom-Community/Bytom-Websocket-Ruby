@@ -9,6 +9,8 @@ cd bytom-websocket-ruby
 ruby ws.rb
 ```
 
+![image-20190119124042912](/var/folders/g5/rffmvqgj73v89x6kmtdv19lh0000gn/T/abnerworks.Typora/image-20190119124042912.png)
+
 ## Method Overview
 
 |  #   |            Topic             |                         Description                          |                       NotificationType                       |
