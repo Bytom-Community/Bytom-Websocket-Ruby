@@ -4,7 +4,7 @@
 
 ```shell
 gem install faye-websocket
-git clone https://github.com/bitdayone/bytom-websocket-ruby.git
+git clone https://github.com/Bytom-Community/Bytom-Websocket-Ruby.git
 cd bytom-websocket-ruby
 ruby ws.rb
 ```
